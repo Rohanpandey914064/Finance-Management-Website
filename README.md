@@ -6,3 +6,4 @@ A web platform designed to help middle-class families manage their finances effi
 ✅ Smart Financial Insights & Recommendations
 ✅ Savings Goals & Investment Tips
 ✅ User-Friendly & Secure Interface
+i
