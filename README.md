@@ -5,4 +5,3 @@ A web platform designed to help middle-class families manage their finances effi
 ✅ Budget Planner & Expense Tracker
 ✅ Smart Financial Insights & Recommendations
 ✅ Savings Goals & Investment Tips
-✅ User-Friendly
